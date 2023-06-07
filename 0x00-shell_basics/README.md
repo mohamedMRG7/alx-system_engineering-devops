@@ -1,2 +1,4 @@
-# print current path
+# Bash commands
+ 
+ ### print realtive path
  pwd
