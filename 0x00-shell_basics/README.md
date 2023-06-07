@@ -1,2 +1,2 @@
-##print current path
-pwd
+# print current path
+ pwd
