@@ -1,0 +1,2 @@
+#pring current path
+pwd
