@@ -1,2 +1,4 @@
-#pring current path
-pwd
+# Bash commands
+ 
+ ### print realtive path
+ pwd
