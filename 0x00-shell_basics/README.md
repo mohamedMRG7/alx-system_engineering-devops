@@ -1,2 +1,2 @@
-#pring current path
+##print current path
 pwd
